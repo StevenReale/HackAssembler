@@ -12,3 +12,4 @@ C:\Users\StevenReale\source\repos\HackAssembler\obj\Debug\net8.0\refint\HackAsse
 C:\Users\StevenReale\source\repos\HackAssembler\obj\Debug\net8.0\HackAssembler.pdb
 C:\Users\StevenReale\source\repos\HackAssembler\obj\Debug\net8.0\HackAssembler.genruntimeconfig.cache
 C:\Users\StevenReale\source\repos\HackAssembler\obj\Debug\net8.0\ref\HackAssembler.dll
+C:\Users\StevenReale\source\repos\HackAssembler\obj\Debug\net8.0\HackAssembler.sourcelink.json

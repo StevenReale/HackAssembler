@@ -4,16 +4,14 @@ namespace HackAssembler.Core;
 
 public class App(string fileName)
 {
-    private const string inputFilePath = "C:\\Users\\StevenReale\\source\\repos\\HackAssembler\\InputFiles\\";
-    private const string outputFilePath = "C:\\Users\\StevenReale\\source\\repos\\HackAssembler\\OutputFiles\\";
-    private readonly string inputFile = inputFilePath + fileName + ".asm";
-    private readonly string outputFile = outputFilePath + fileName + ".hack";
+    private readonly string inputFilePath = $"C:\\Users\\StevenReale\\source\\repos\\HackAssembler\\InputFiles\\{fileName}.asm";
+    private readonly string outputFilePath = $"C:\\Users\\StevenReale\\source\\repos\\HackAssembler\\OutputFiles\\{fileName}.hack";
     public Dictionary<string, int> symbolTable = [];
     private int register;
 
     public void Run()
     {
-        if (!File.Exists(inputFile))
+        if (!File.Exists(inputFilePath))
         {
             Console.WriteLine($"Error: The file '{fileName}' does not exist.");
             return;
@@ -25,8 +23,8 @@ public class App(string fileName)
             processLabels();
 
             //main parsing handling
-            using StreamReader reader = new(inputFile);
-            using StreamWriter writer = new(outputFile);
+            using StreamReader reader = new(inputFilePath);
+            using StreamWriter writer = new(outputFilePath);
             register = 16;
             string? line;
 
@@ -172,7 +170,7 @@ public class App(string fileName)
 
     private void processLabels()
     {
-        using StreamReader reader = new(inputFile);
+        using StreamReader reader = new(inputFilePath);
         string? line;
         int lineNumber = 0;
         while ((line = reader.ReadLine()) != null)
