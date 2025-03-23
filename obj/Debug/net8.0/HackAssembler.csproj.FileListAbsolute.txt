@@ -1,0 +1,14 @@
+C:\Users\StevenReale\source\repos\HackAssembler\bin\Debug\net8.0\HackAssembler.exe
+C:\Users\StevenReale\source\repos\HackAssembler\bin\Debug\net8.0\HackAssembler.deps.json
+C:\Users\StevenReale\source\repos\HackAssembler\bin\Debug\net8.0\HackAssembler.runtimeconfig.json
+C:\Users\StevenReale\source\repos\HackAssembler\bin\Debug\net8.0\HackAssembler.dll
+C:\Users\StevenReale\source\repos\HackAssembler\bin\Debug\net8.0\HackAssembler.pdb
+C:\Users\StevenReale\source\repos\HackAssembler\obj\Debug\net8.0\HackAssembler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\StevenReale\source\repos\HackAssembler\obj\Debug\net8.0\HackAssembler.AssemblyInfoInputs.cache
+C:\Users\StevenReale\source\repos\HackAssembler\obj\Debug\net8.0\HackAssembler.AssemblyInfo.cs
+C:\Users\StevenReale\source\repos\HackAssembler\obj\Debug\net8.0\HackAssembler.csproj.CoreCompileInputs.cache
+C:\Users\StevenReale\source\repos\HackAssembler\obj\Debug\net8.0\HackAssembler.dll
+C:\Users\StevenReale\source\repos\HackAssembler\obj\Debug\net8.0\refint\HackAssembler.dll
+C:\Users\StevenReale\source\repos\HackAssembler\obj\Debug\net8.0\HackAssembler.pdb
+C:\Users\StevenReale\source\repos\HackAssembler\obj\Debug\net8.0\HackAssembler.genruntimeconfig.cache
+C:\Users\StevenReale\source\repos\HackAssembler\obj\Debug\net8.0\ref\HackAssembler.dll

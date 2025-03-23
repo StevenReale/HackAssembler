@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\StevenReale\\source\\repos\\HackAssembler\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF8E65E1-B7EA-4222-A5A7-86FDDE4D78FE}|HackAssembler.csproj|c:\\users\\stevenreale\\source\\repos\\hackassembler\\core\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF8E65E1-B7EA-4222-A5A7-86FDDE4D78FE}|HackAssembler.csproj|solutionrelative:core\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF8E65E1-B7EA-4222-A5A7-86FDDE4D78FE}|HackAssembler.csproj|c:\\users\\stevenreale\\source\\repos\\hackassembler\\outputfiles\\pong.hack||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FF8E65E1-B7EA-4222-A5A7-86FDDE4D78FE}|HackAssembler.csproj|solutionrelative:outputfiles\\pong.hack||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF8E65E1-B7EA-4222-A5A7-86FDDE4D78FE}|HackAssembler.csproj|c:\\users\\stevenreale\\source\\repos\\hackassembler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF8E65E1-B7EA-4222-A5A7-86FDDE4D78FE}|HackAssembler.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF8E65E1-B7EA-4222-A5A7-86FDDE4D78FE}|HackAssembler.csproj|c:\\users\\stevenreale\\source\\repos\\hackassembler\\inputfiles\\pong.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FF8E65E1-B7EA-4222-A5A7-86FDDE4D78FE}|HackAssembler.csproj|solutionrelative:inputfiles\\pong.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF8E65E1-B7EA-4222-A5A7-86FDDE4D78FE}|HackAssembler.csproj|c:\\users\\stevenreale\\source\\repos\\hackassembler\\outputfiles\\add.hack||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FF8E65E1-B7EA-4222-A5A7-86FDDE4D78FE}|HackAssembler.csproj|solutionrelative:outputfiles\\add.hack||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF8E65E1-B7EA-4222-A5A7-86FDDE4D78FE}|HackAssembler.csproj|c:\\users\\stevenreale\\source\\repos\\hackassembler\\inputfiles\\add.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FF8E65E1-B7EA-4222-A5A7-86FDDE4D78FE}|HackAssembler.csproj|solutionrelative:inputfiles\\add.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pong.hack",
+              "DocumentMoniker": "C:\\Users\\StevenReale\\source\\repos\\HackAssembler\\OutputFiles\\Pong.hack",
+              "RelativeDocumentMoniker": "OutputFiles\\Pong.hack",
+              "ToolTip": "C:\\Users\\StevenReale\\source\\repos\\HackAssembler\\OutputFiles\\Pong.hack",
+              "RelativeToolTip": "OutputFiles\\Pong.hack",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-23T02:39:51.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pong.asm",
+              "DocumentMoniker": "C:\\Users\\StevenReale\\source\\repos\\HackAssembler\\InputFiles\\Pong.asm",
+              "RelativeDocumentMoniker": "InputFiles\\Pong.asm",
+              "ToolTip": "C:\\Users\\StevenReale\\source\\repos\\HackAssembler\\InputFiles\\Pong.asm",
+              "RelativeToolTip": "InputFiles\\Pong.asm",
+              "ViewState": "AQIAAJtuAAAAAAAAAAAqwNZuAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-23T02:39:30.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Add.hack",
+              "DocumentMoniker": "C:\\Users\\StevenReale\\source\\repos\\HackAssembler\\OutputFiles\\Add.hack",
+              "RelativeDocumentMoniker": "OutputFiles\\Add.hack",
+              "ToolTip": "C:\\Users\\StevenReale\\source\\repos\\HackAssembler\\OutputFiles\\Add.hack",
+              "RelativeToolTip": "OutputFiles\\Add.hack",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-23T02:30:15.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Add.asm",
+              "DocumentMoniker": "C:\\Users\\StevenReale\\source\\repos\\HackAssembler\\InputFiles\\Add.asm",
+              "RelativeDocumentMoniker": "InputFiles\\Add.asm",
+              "ToolTip": "C:\\Users\\StevenReale\\source\\repos\\HackAssembler\\InputFiles\\Add.asm",
+              "RelativeToolTip": "InputFiles\\Add.asm",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-22T23:29:07.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.cs",
+              "DocumentMoniker": "C:\\Users\\StevenReale\\source\\repos\\HackAssembler\\Core\\App.cs",
+              "RelativeDocumentMoniker": "Core\\App.cs",
+              "ToolTip": "C:\\Users\\StevenReale\\source\\repos\\HackAssembler\\Core\\App.cs",
+              "RelativeToolTip": "Core\\App.cs",
+              "ViewState": "AQIAALgAAAAAAAAAAADwv5cAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T23:17:51.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\StevenReale\\source\\repos\\HackAssembler\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\StevenReale\\source\\repos\\HackAssembler\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T22:35:02.441Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
