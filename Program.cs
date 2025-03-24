@@ -4,7 +4,7 @@ namespace HackAssembler;
 
 public class Program
 {
-    public const string fileName = "Pong";
+    public const string fileName = "Max";
 
     static void Main(string[] args)
     {
