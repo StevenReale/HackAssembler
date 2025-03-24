@@ -9,3 +9,5 @@ To use:
 1. Add file in Hack Assembly language (suffix `.asm`) to the InputFolder.
 2. Specify the base filename in `Program.cs`
 3. Machine code will be generated in the OutputFolder with the same filename and suffic `.hack`.
+
+Translation logic principally found in [Core/App.cs](https://github.com/StevenReale/HackAssembler/blob/main/Core/App.cs).
